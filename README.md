@@ -86,7 +86,7 @@
 
 <a href="https://www.github.com/tarun-me" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./github_white.png">
+    <source media="(prefers-color-scheme: dark)" srcset="./github_White.png">
     <source media="(prefers-color-scheme: light)" srcset="./github_dark.png">    
     <img src="./github_dark.png" width="50" height="50" alt="GitHub" style="margin-bottom: 5px;" />
   </picture>
