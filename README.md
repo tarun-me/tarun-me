@@ -75,7 +75,7 @@
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   
-<a href="tarunjangir9413@gmail.com" target="_blank">
+<a href="mailto:tarunjangir9413@gmail.com" target="_blank">
 <img src="./gmail.png" width=50 height=50 alt="tarunjangir9413@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
