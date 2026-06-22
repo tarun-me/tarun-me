@@ -7,7 +7,8 @@
 <img align="right" width="140" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Night Owl">
 </a>
 ​<!--Header Name-->
-​<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ TARUN!
+​<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>ɪ'ᴍ TARUN!
+
 ​Aspiring Software Developer | CS Student
 <br />
 ​<!--Start Intro-->
