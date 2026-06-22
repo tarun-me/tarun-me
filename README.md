@@ -85,16 +85,17 @@
 </a>
 
 <a href="https://www.github.com/tarun-me" target="_blank">
-<img src="./github.png" width=50 height=50 alt="tarun-me" style="margin-bottom: 5px;" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./github_white.png">
+    <source media="(prefers-color-scheme: light)" srcset="./github_dark.png">    
+    <img src="./github_dark.png" width="50" height="50" alt="GitHub" style="margin-bottom: 5px;" />
+  </picture>
 </a>
 
 <a href="https://www.linkedin.com/in/tarun-jangir-5ab078253" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="LinkedIn" style="margin-bottom: 5px;" />
+<img src="./In.png" width=50 height=50 alt="LinkedIn" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://dev.to/your_devto" target="_blank">
-<img src="./dev_to.png" width=50 height=50 alt="Dev.to" style="margin-bottom: 5px;" />
-</a>
 </div>
 <br/>
 ​<!--Buy me a coffee / Telegram-->
