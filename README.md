@@ -63,6 +63,16 @@
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarun-me&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&hide_border=false" alt="Activity Graph" style="border-radius: 15px;">
 </div>
+
+<h2 align="center">🐍 Mʏ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Sɴᴀᴋᴇ 🐍</h2>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tarun-me/tarun-me/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tarun-me/tarun-me/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/tarun-me/tarun-me/output/github-snake.svg">
+  </picture>
+</div>
+
 ​<!--Dynamic Quote Cards-->
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 <div align="center">
