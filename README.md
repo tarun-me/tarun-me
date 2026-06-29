@@ -7,10 +7,11 @@
 <img align="right" width="140" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Night Owl">
 </a>
 ​<!--Header Name-->
-​<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>ɪ'ᴍ TARUN!
-
-​Aspiring Software Developer | CS Student
-<br />
+​<div> <h1>
+  <img src="Winking Face.png" width="35" align="center" /> ɪ'ᴍ TARUN!
+</h1>
+</div>
+<p>Aspiring Software Developer | CS Student</p>
 ​<!--Start Intro-->
 <p align="left">I am a beginner Computer Science student currently learning programming from the ground up. I am exploring various technologies, including Java, C++, HTML, XML, CSS, JavaScript, PHP, and SQL. My main interests are in web development, software engineering, and databases.</p>
 ​✨ Passionate about learning and growing as a developer.
@@ -23,28 +24,33 @@
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=tarun-me&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Profile Views" />
 </p>
-​<!--Languages and Tools Section-->
+<!--Languages and Tools Section-->
 <h2 align="center">💻 Tᴇᴄʜ Sᴛᴀᴄᴋ & Cᴜʀʀᴇɴᴛ Lᴇᴀʀɴɪɴɢ 💻</h2>
-​<p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-<source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-<img alt="Tech Stack Animation" src="./Skills_Animation_White.gif" width="100%">
-</picture>
-</p>
-</br>
 
-​📚 Current Learning 
-
-​Learning the basics of programming and software development.
-​Exploring C++, PHP, Java, and web technologies step by step.
-​Practicing problem-solving and improving coding logic.
-
-​🎯 Goals
-
-​Gain confidence in coding and build simple projects.
-​Understand web development and backend technologies.
-​Keep learning and improving through practice.
+<table>
+  <tr>
+    <!-- Left Column: Text -->
+    <td width="50%" valign="top">
+      <h3>📚 Current Learning</h3>
+      <ul>
+        <li>Learning the basics of programming and software development.</li>
+        <li>Exploring C++, PHP, Java, and web technologies step by step.</li>
+        <li>Practicing problem-solving and improving coding logic.</li>
+      </ul>
+      <br>
+      <h3>🎯 Goals</h3>
+      <ul>
+        <li>Gain confidence in coding and build simple projects.</li>
+        <li>Understand web development and backend technologies.</li>
+        <li>Keep learning and improving through practice.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img alt="Tech Stack Animation" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100%">
+    </td>
+  </tr>
+</table>
+    
 ​<!--Github stats Section-->
 <h2 align="center">📊 GɪᴛHᴜʙ Sᴛᴀᴛs 📊</h2>
 ​<div align="center">
@@ -112,5 +118,5 @@
 
 ​<!--Footer-->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" alt="Footer wave"/>
+<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" alt="Footer"/>
 </p>
