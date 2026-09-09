@@ -1,0 +1,40 @@
+name: Generate Snake
+
+on:
+  schedule:
+    # Har 12 ghante me run hoga
+    - cron: "0 */12 * * *"
+  
+  # Manual trigger karne ke liye
+  workflow_dispatch:
+
+  # Jab main branch par push ho
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions: 
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      # Contribution graph se snake SVG generate karega
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      # Generated SVG files ko output branch par push karega
+      - name: Push snake svgs to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
