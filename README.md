@@ -63,13 +63,6 @@
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=tarun-me&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 ​
-
-​<!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tarun-me&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&hide_border=false" alt="Activity Graph" style="border-radius: 15px;">
-</div>
-
 <h2 align="center">🐍 Mʏ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Sɴᴀᴋᴇ 🐍</h2>
 <div align="center">
   <picture>
